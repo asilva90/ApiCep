@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCep", "ApiCep.csproj", "{F132CE28-8A42-478D-992A-C0AD710C7646}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F132CE28-8A42-478D-992A-C0AD710C7646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F132CE28-8A42-478D-992A-C0AD710C7646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F132CE28-8A42-478D-992A-C0AD710C7646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F132CE28-8A42-478D-992A-C0AD710C7646}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {826DC596-D15D-4558-A784-D6DB3352C2C2}
+	EndGlobalSection
+EndGlobal
